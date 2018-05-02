@@ -10,4 +10,7 @@ The profile page requires the user to log in in order to see the profile detail.
 username: 'chicken@chicken.com',
 password: 'chicken'
 
-<iframe src="https://codesandbox.io/embed/jv659x8q23" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+<a href="https://codesandbox.io/s/jv659x8q23">
+  <img alt="Edit AuthContextProvider" src="https://codesandbox.io/static/img/play-codesandbox.svg">
+</a>
+
