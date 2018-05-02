@@ -10,7 +10,7 @@ You will be prompted to log in if you go the profile page. Use below test accoun
 username: chicken@chicken.com
 password: chicken
 
-##Installation
+## Installation
 You can always run this little app on your local machine. 
 
 After git clone, do
